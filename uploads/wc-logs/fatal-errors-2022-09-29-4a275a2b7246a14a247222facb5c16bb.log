@@ -1,0 +1,32 @@
+2022-09-29T11:20:50+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:23:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:24:31+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:24:41+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+

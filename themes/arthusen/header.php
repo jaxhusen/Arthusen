@@ -1,3 +1,5 @@
+<!-- Kod för att lägga in menyn i alla headers -->
+
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 
@@ -7,6 +9,10 @@
   <?php wp_head(); ?>
 </head>
 
-<div>
-    header.php
+<body <?php body_class(); ?>>
+  <?php wp_body_open(); ?>
+
+  <div class="wrapper-header">
+    <?php get_template_part('template-parts/nav'); ?>
+
 </div>

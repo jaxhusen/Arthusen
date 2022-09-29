@@ -16,3 +16,38 @@ Text Domain: blankslate
 BlankSlate WordPress Theme © 2011-2022 TidyThemes
 BlankSlate is distributed under the terms of the GNU GPL
 */
+
+p {
+    font-size: larger;
+    color: blueviolet;
+}
+
+
+
+
+.menu ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+   }
+   
+.menu a {
+ text-decoration: none;
+ color: #000000;
+ font-family: 'Montserrat';
+ position: relative;
+ cursor: pointer;
+ padding-left: 90px;
+}
+
+
+.arthusen {
+ text-decoration:none;
+ color: #000000;
+ font-family: 'Montserrat';
+ cursor: pointer;
+ display: flex;
+ justify-content: center;
+  }
+  
