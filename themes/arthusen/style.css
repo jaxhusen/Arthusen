@@ -33,6 +33,31 @@ p.has-text-align-center{
     margin: 1% 10%;
 }
 
+/* ----- button i förstablocket på startsida ----- */
+a.wp-block-button__link{
+    margin-bottom: 5%;
+}
+
+div.wp-block-media-text__content{
+    width: 50%;
+    margin-left: 15%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.skyfall-price{
+    font-size: small;
+}
+
+.header-skyfall{
+    font-family: 'Libre Baskerville', serif;
+}
+
+
+
+
+
+
+
 
 /* ----------- FOOTER ----------- */
 .footer{
