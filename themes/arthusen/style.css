@@ -22,34 +22,62 @@ html{
 }
 
 
-/*  ------- header i förstablocket på startsida-----  */
+/*  ------- css för förstablocket på startsidan-----  */
+/*  ------- header i förstablocket på startsida -----  */
 h2.has-text-align-center{
     font-family: 'Libre Baskerville', serif;
+    margin-top: 5%;
 }
-
 /* ------- text i förstablocket på startsida----- */
 p.has-text-align-center{
     font-family: 'Montserrat', sans-serif;
-    margin: 1% 10%;
+    margin: 1% 20%;
 }
-
 /* ----- button i förstablocket på startsida ----- */
 a.wp-block-button__link{
     margin-bottom: 5%;
 }
 
+
+
+/* ------ css för skyfall på förstasidan ----- */
+.skyfall-block{
+    margin-bottom: 5%;
+}
 div.wp-block-media-text__content{
     width: 50%;
     margin-left: 15%;
     font-family: 'Montserrat', sans-serif;
 }
-
 .skyfall-price{
     font-size: small;
 }
-
-.header-skyfall{
+.skyfall-header{
     font-family: 'Libre Baskerville', serif;
+}
+
+
+
+
+/* ------ header + text i categories på förstasidan ----- */
+.categories-title{
+    margin: 0 20% 2% 20%;
+    font-family: 'Libre Baskerville', serif;
+}
+.categories-text{
+    margin: 0 20% 2% 20%;
+    width: 29%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* ------- categories på förstasidan --------- */
+/* ---- första raden av categories på startsidan ------ */
+.categories-ett{
+    margin: 0 20% 2% 20%;
+}
+/* ---- andra raden av categories på startsidan ------ */
+.categories-tva{
+    margin: 0 20%;
 }
 
 
