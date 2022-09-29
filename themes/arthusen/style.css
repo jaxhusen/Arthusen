@@ -17,6 +17,12 @@ BlankSlate WordPress Theme © 2011-2022 TidyThemes
 BlankSlate is distributed under the terms of the GNU GPL
 */
 
+
+
+html {
+  background-color: #BFC7C7;
+}
+
 .menu ul{
     list-style-type: none;
     display: flex;
@@ -28,7 +34,6 @@ BlankSlate is distributed under the terms of the GNU GPL
  text-decoration: none;
  color: #000000;
  font-family: 'Montserrat';
- position: relative;
  cursor: pointer;
  padding-left: 90px;
 }
@@ -43,15 +48,61 @@ BlankSlate is distributed under the terms of the GNU GPL
  justify-content: center;
   }
   
-   .post-block {
-    width: 100%;
-    background-color: white;
-    display: flex;
-    flex-direction: column;
-    column-count: inherit;
-    text-align: left;
-    justify-content: center;
-    align-items: center;
-  } 
-  
- 
+
+  /* styling för kategorisidor */
+.kath1 {
+  font-family: 'Montserrat';
+}
+
+.katp {
+  font-family: 'Montserrat', sans-serif;
+   width: 50%;
+   border: blueviolet 1px solid;
+   justify-content: center;
+   color: #353434;
+   margin-left: 25%;
+   background-color: #BFC7C7;
+   margin-bottom: 5%;
+}
+
+.katkat {
+  background-color: white;
+  font-family: 'Montserrat', sans-serif;
+  color: #C4C4C4;
+  margin-bottom: -3%;
+  margin-left: 2%;
+}
+
+.katsize {
+  padding-top: 5%;
+  background-color: white;
+  border: blueviolet 1px solid;
+}
+
+.kattit {
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+  justify-content: left;
+  padding-left: 25%;
+}
+
+.katprice {
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+  justify-content: left;
+  padding-left: 25%;
+}
+
+.katsum {
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+  justify-content: left;
+  padding-left: 25%;
+}
+
+.katpic {
+  width: 50%;
+  padding-left: 25%;
+  padding-right: 1%;
+}
