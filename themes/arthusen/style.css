@@ -18,9 +18,23 @@ BlankSlate is distributed under the terms of the GNU GPL
 */
 
 html{
-    background-color: pink;
+    background-color: #BFC7C7;
 }
 
+
+/*  ------- header i förstablocket på startsida-----  */
+h2.has-text-align-center{
+    font-family: 'Libre Baskerville', serif;
+}
+
+/* ------- text i förstablocket på startsida----- */
+p.has-text-align-center{
+    font-family: 'Montserrat', sans-serif;
+    margin: 1% 10%;
+}
+
+
+/* ----------- FOOTER ----------- */
 .footer{
     position: absolute;
     background-color: #617C7C;
