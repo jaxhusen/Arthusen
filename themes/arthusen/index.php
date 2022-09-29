@@ -1,7 +1,9 @@
 <?php
 get_header();
 ?>
-
+<div>
+    <p>hej</p>
+</div>
 index.php
 
 <?php
