@@ -17,14 +17,6 @@ BlankSlate WordPress Theme © 2011-2022 TidyThemes
 BlankSlate is distributed under the terms of the GNU GPL
 */
 
-p {
-    font-size: larger;
-    color: blueviolet;
-}
-
-
-
-
 .menu ul{
     list-style-type: none;
     display: flex;
@@ -51,3 +43,15 @@ p {
  justify-content: center;
   }
   
+   .post-block {
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    column-count: inherit;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+  } 
+  
+ 

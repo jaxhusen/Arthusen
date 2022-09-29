@@ -1,7 +1,7 @@
 <?php
 get_header();
 ?>
-
+inlägg
 <?php
 
 $the_query = new WP_Query(array(

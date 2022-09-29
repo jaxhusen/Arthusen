@@ -1,7 +1,8 @@
 <?php
 get_header();
-?>
 
+?>
+startsida
 <div class="page-content">
     <?php
     if (get_field('show_heading')) :
@@ -27,4 +28,6 @@ get_header();
  </div>
 <?php endif; ?>
 
-<?php
+<?php 
+
+get_footer();
