@@ -1,3 +1,5 @@
+<!-- Kod för att lägga in menyn i alla headers -->
+
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 

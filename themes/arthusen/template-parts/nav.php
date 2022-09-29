@@ -1,11 +1,15 @@
+<!-- Kod för menyn -->
+
 <header>
-    <?php
+
+<?php
+
     $site_title = get_bloginfo('name');
     $site_url = network_site_url('/');
-    ?>
+ ?>
 
     <a href="<?php echo $site_url; ?>">
-        <h1>
+        <h1 class="arthusen">
             <?php echo $site_title ?>
         </h1>
     </a>

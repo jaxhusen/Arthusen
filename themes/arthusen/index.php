@@ -1,11 +1,10 @@
 <?php
 get_header();
 ?>
-<div class="index-class">
-index.php
-</div>
 
+<?php the_content(); ?>
 
 <?php
+
+
 get_footer();
-?>

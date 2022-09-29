@@ -1,0 +1,544 @@
+2022-09-29T11:20:50+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:23:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:24:31+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:24:41+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:31:00+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:31:06+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:31:11+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:31:29+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:31:32+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:31:34+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:31:37+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:31:38+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:31:39+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:31:41+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:34:21+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:35:43+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:35:48+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:35:51+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:36:34+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:36:36+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:36:39+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:36:40+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:36:43+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:36:44+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:36:46+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:37:03+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:37:05+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:37:07+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:39:51+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:39:57+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:43:49+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:44:35+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:48:35+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:49:18+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T11:59:03+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-09-29T12:03:54+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:04:38+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:04:39+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:04:44+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:04:59+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:05:01+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:08:29+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:09:00+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:09:03+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:09:06+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:09:25+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:09:37+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:09:41+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:09:52+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:09:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:10:11+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:12:05+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:12:31+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:14:08+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:14:40+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:16:52+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:16:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:17:41+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:17:44+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:17:55+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:23:45+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:23:49+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:23:51+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:24:26+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:26:52+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:27:27+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:27:30+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
+2022-09-29T12:27:39+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:8
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 8
+
