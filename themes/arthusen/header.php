@@ -11,7 +11,7 @@
   <?php wp_body_open(); ?>
 
   
-<div>
-    header.php
-    tralallalala
+  <div class="wrapper-header">
+    <?php get_template_part('template-parts/nav'); ?>
+
 </div>
