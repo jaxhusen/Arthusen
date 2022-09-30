@@ -21,6 +21,12 @@ html{
     background-color: #BFC7C7;
 }
 
+/* .wp-image-117{
+    width: 100%;
+    margin: 0;
+    top: -20%;
+} */
+
 
 /*  ------- css för förstablocket på startsidan-----  */
 /*  ------- header i förstablocket på startsida -----  */
@@ -78,6 +84,20 @@ div.wp-block-media-text__content{
 /* ---- andra raden av categories på startsidan ------ */
 .categories-tva{
     margin: 0 20%;
+}
+
+
+/* schack-blocket med latest posts */
+.schack-ett{
+    display: flex;
+}
+.schack-tvatext{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+}
+.schack-tvabtn{
+
 }
 
 
