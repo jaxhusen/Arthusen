@@ -88,17 +88,18 @@ div.wp-block-media-text__content{
 
 
 /* schack-blocket med latest posts */
-.schack-ett{
-    display: flex;
+.schack-ett,
+.schack-tva{
+    background-color: white;
+    margin-bottom: -0.1%;
 }
-.schack-tvatext{
-    position: absolute;
-    display: flex;
-    flex-direction: column;
-}
-.schack-tvabtn{
 
+.schack-etttext,
+.schack-tvatext{
+    max-width: 28%;
+    padding: 10% 10%;
 }
+
 
 
 
