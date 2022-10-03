@@ -8,8 +8,6 @@ function arthusen_enqueue(){
 add_theme_support( 'post-thumbnails' );
 
 
-
-
 //kod för ACF blocket schack
 add_action('acf/init', 'my_acf_init_block_types');
 function my_acf_init_block_types(){
@@ -34,3 +32,4 @@ if(function_exists('acf_register_block_type')){
 if(function_exists('acf_add_options_page')){
     acf_add_options_page();
 } 
+

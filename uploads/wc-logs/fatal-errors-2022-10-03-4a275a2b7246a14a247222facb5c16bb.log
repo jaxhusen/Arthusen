@@ -1,0 +1,32 @@
+2022-10-03T12:31:11+00:00 CRITICAL syntax error, unexpected '<', expecting ')' in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/template-parts/nav.php on line 18
+
+2022-10-03T13:33:17+00:00 CRITICAL syntax error, unexpected end of file in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/single.php on line 25
+
+2022-10-03T13:48:27+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-10-03T13:48:51+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-10-03T13:49:00+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 7
+
+2022-10-03T13:54:02+00:00 CRITICAL Cannot redeclare my_acf_init_block_types() (previously declared in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/functions.php:13) in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/functions.php on line 40
+
+2022-10-03T13:54:31+00:00 CRITICAL Cannot redeclare my_acf_init_block_types() (previously declared in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/functions.php:13) in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/functions.php on line 40
+

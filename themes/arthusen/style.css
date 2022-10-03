@@ -176,6 +176,13 @@ a:link {
  padding-left: 90px;
 }
   
+.menu li.page-item-17 {
+  color: violet;
+}
+
+li.current_page_item {
+  color: red;
+}
 
   /* ---- styling för kategorisidor ---- */
 .kath1 {
@@ -189,7 +196,6 @@ a:link {
    justify-content: center;
    color: #353434;
    margin-left: 25%;
-   background-color: #BFC7C7;
    margin-bottom: 5%;
 }
 
@@ -232,6 +238,20 @@ a:link {
   width: 50%;
   padding-left: 25%;
   padding-right: 1%;
+}
+
+.katp2 {
+  font-family: 'Montserrat', sans-serif;
+   width: 50%;
+   color: #353434;
+   margin-left: 10%;
+   margin-bottom: 5%;
+}
+
+.kath2 {
+  font-family: 'Libre Baskerville', serif;
+  letter-spacing: 1px;
+  margin-left: 10%;
 }
 
 /* ---- ---- */
