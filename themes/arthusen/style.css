@@ -21,11 +21,9 @@ html{
     background-color: #BFC7C7;
 }
 
-/* .wp-image-117{
-    width: 100%;
-    margin: 0;
-    top: -20%;
-} */
+.header-startsida{
+   /*  margin-top: -5%; */
+}
 
 
 /*  ------- css för förstablocket på startsidan-----  */
@@ -87,6 +85,7 @@ div.wp-block-media-text__content{
 }
 
 
+
 /* schack-blocket med latest posts */
 .schack-ett,
 .schack-tva{
@@ -101,10 +100,10 @@ div.wp-block-media-text__content{
 }
 
 
-
-
-
-
+/* ------  */
+.page-template-default{
+    background-color: white;
+}
 
 
 
@@ -154,6 +153,16 @@ a:link {
 }
 
 /* ---- MENY CSS ---- */
+
+.arthusen {
+    color: #000000;
+    font-family: 'Montserrat';
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+     }
+
+
 .menu ul{
     list-style-type: none;
     display: flex;
@@ -166,15 +175,6 @@ a:link {
  cursor: pointer;
  padding-left: 90px;
 }
-
-
-.arthusen {
- color: #000000;
- font-family: 'Montserrat';
- cursor: pointer;
- display: flex;
- justify-content: center;
-  }
   
 
   /* ---- styling för kategorisidor ---- */
