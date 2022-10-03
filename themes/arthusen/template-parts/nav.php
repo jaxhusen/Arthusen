@@ -23,4 +23,6 @@
     <?php wp_nav_menu(array(
         'theme_location' => 'header-menu',
     )); ?>
+
+    <?php get_search_form(); ?>
 </header>
