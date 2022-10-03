@@ -19,6 +19,7 @@ BlankSlate is distributed under the terms of the GNU GPL
 
 html{
     background-color: #BFC7C7;
+    /* background-color: white; */
 }
 
 .header-startsida{
@@ -100,10 +101,36 @@ div.wp-block-media-text__content{
 }
 
 
-/* ------  */
-/* .page-template-default{
+
+
+/* backgrund bild i filen: page */
+.page-content{
     background-color: white;
-} */
+}
+/* ------  */
+.kontakt-header{
+    font-family: 'Libre Baskerville', serif;
+    margin-bottom: 0;
+}
+.kontakt-text{
+    margin-top: 0;
+    padding: 0 20% 2% 20% !important;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+}
+/* ------ container för form --------- */
+.wpforms-field-container{
+    margin: 0 20%;
+    font-family: 'Montserrat', sans-serif;
+}
+/* ----- save button i form --------- */
+.wpforms-submit-container{
+    display: flex;
+    justify-content: right;
+    right: 20%;
+/*     margin-bottom: 2%; */
+}
+
 
 
 
