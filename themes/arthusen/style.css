@@ -163,23 +163,17 @@ div.wp-block-media-text__content{
     position: relative;
 }
 
-
-
-
-
-
-
-
-
-
-
-/* -------------------------JULIA------------------- */
+/* --------------------JULIA------------------- */
 
 a:link {
   text-decoration: none;
 }
 
-/* ---- MENY CSS ---- */
+/* ---- meny styling ---- */
+
+.menu-wrapper {
+  border: solid 2px red;
+}
 
 .arthusen {
     color: #000000;
@@ -187,28 +181,32 @@ a:link {
     cursor: pointer;
     display: flex;
     justify-content: center;
+    border: solid 2px pink;
      }
 
 
 .menu ul{
-    list-style-type: none;
-    display: flex;
-    flex-direction: row;
-   }
-   
-.menu a {
- color: #000000;
- font-family: 'Montserrat';
- cursor: pointer;
- padding-left: 90px;
+  list-style-type: none;
+  display: flex;
+ flex-direction: row;
 }
-  
-.menu li.page-item-17 {
-  color: violet;
-}
+     
+  .menu a {
+   color: #000000;
+   font-family: 'Montserrat';
+   cursor: pointer;
+   padding-left: 90px;
+  }
 
-li.current_page_item {
-  color: red;
+.cart-menu {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-end;
+  border: solid 1px blueviolet;
+  margin-top: -9%;
+  display: absolute;
 }
 
   /* ---- styling för kategorisidor ---- */
@@ -281,4 +279,55 @@ li.current_page_item {
   margin-left: 10%;
 }
 
-/* ---- ---- */
+
+/* ---- om oss styling ---- */
+
+.omh1 {
+  font-family: 'Libre Baskerville', serif;
+  letter-spacing: 1px;
+}
+
+.omp1 {
+  font-family: 'Montserrat', sans-serif;
+  width: 50%;
+  justify-content: center;
+  color: #353434;
+  margin-left: 25%;
+  margin-top: 3%;
+}
+
+.omp {
+  font-family: 'Montserrat', sans-serif;
+  width: 50%;
+  justify-content: center;
+  color: #353434;
+  margin-left: 25%;
+}
+
+.omp3 {
+  font-family: 'Montserrat', sans-serif;
+  width: 50%;
+  justify-content: center;
+  color: #353434;
+  margin-left: 25%;
+  margin-bottom: 5%;
+}
+
+.omh2 {
+  font-family: 'Libre Baskerville', serif;
+  letter-spacing: 1px;
+  margin-left: 10%;
+}
+
+.omp4 {
+  font-family: 'Montserrat', sans-serif;
+  width: 50%;
+  justify-content: center;
+  color: #353434;
+  margin-left: 10%;
+}
+
+.omkat {
+  background-color: aqua;
+}
+
