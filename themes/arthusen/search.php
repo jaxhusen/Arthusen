@@ -1,11 +1,27 @@
 <?php
 get_header();
 
-if(have_posts()) :
-    ?>
+get_search_form(); 
 
-    <?php while (have_posts()) : the_post(); ?>
-    <?php get_template_part('template-part')
+if(have_posts()){
+    ?>
+    <h2>
+        Search result:
+    </h2>
 <?php
-    endif;
+    while (have_posts()){
+        the_content();
+    }
+    }else{
+        echo '<h2> Ooops.. Try again! </h2>';
+    
+
+}
+    
+    
+
+
+/*
+     endwhile;
+    endif; */
     get_footer();
