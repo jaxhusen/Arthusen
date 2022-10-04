@@ -17,7 +17,7 @@ BlankSlate WordPress Theme © 2011-2022 TidyThemes
 BlankSlate is distributed under the terms of the GNU GPL
 */
 
-.index-content{
+html{
     background-color: #BFC7C7;
     /* background-color: white; */
 }
@@ -114,11 +114,35 @@ div.wp-block-media-text__content{
 
 
 
-/* backgrund bild i filen: page */
-.page-content{
+/* backgrundsfärg på kontakta oss */
+div.startsida-blocktva{
+    margin-top: -2%;
     background-color: white;
+    height: 600px;
+} 
+.blocktva-header{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    margin-top: -20%;
+    font-family: 'Libre Baskerville', serif;
 }
-/* ------  */
+.blocktva-rad{    
+    text-align: left;
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: -8%;
+    width: 45%;
+    
+}
+.blocktva-text{
+    margin-top: 6%;
+    text-align: left;
+    position: absolute;
+    width: 45%;
+    font-family: 'Montserrat', sans-serif;
+}
+
 .kontakt-header{
     font-family: 'Libre Baskerville', serif;
     margin-bottom: 0;
@@ -128,6 +152,9 @@ div.wp-block-media-text__content{
     padding: 0 20% 2% 20% !important;
     font-family: 'Montserrat', sans-serif;
     margin: auto;
+}
+.kontakt-form{
+    background-color: white;
 }
 /* ------ container för form --------- */
 .wpforms-field-container{
