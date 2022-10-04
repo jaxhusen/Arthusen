@@ -34,8 +34,6 @@ if(function_exists('acf_add_options_page')){
 } 
 
 
-
-
 // lägger till produkt i woocommerce.php
 function add_woocommerce_support(){
     add_theme_support('woocommerce');
