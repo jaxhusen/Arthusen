@@ -295,6 +295,16 @@ a:link {
   display: none;
 }
 
+.menu ul{
+  background-color: transparent;
+  position: absolute;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  position: absolute;
+ }  
+
 .arthusen {
     color: #000000;
     font-family: 'Montserrat';
@@ -302,8 +312,7 @@ a:link {
     position: relative;
     display: flex;
     justify-content: center;
-     }
-
+     }   
 
 .cart-menu {
     display: flex;
@@ -316,14 +325,7 @@ a:link {
   padding-right: 5px;
 }
 
-.menu ul{
- background-color: transparent;
- position: absolute;
- list-style-type: none;
- display: flex;
- flex-direction: row;
- width: 50%;
-}
+
      
 .menu a {
  color: #000000;
