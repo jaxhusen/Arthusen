@@ -212,6 +212,44 @@ div.kontakt-form{
     height: 900px;
     background-color: white;
 }
+.search-title{
+    font-family: 'Libre Baskerville', serif;
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+}
+.search-form{
+    font-family: 'Montserrat', sans-serif;
+}
+.search-vad{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 28%;
+}
+.search-field{
+    display: flex;
+    justify-content: center;
+}
+#s{
+    width: 700px;
+    height: 80px;
+}
+#searchsubmit{
+    display: flex;
+    justify-content: center;
+    margin-left: 40%;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 0;
+    margin-top: 1%;
+    width: 20%;
+    cursor: pointer;
+    color: white;
+    background-color: #617C7C;
+}
+
+
+
 
 
 
