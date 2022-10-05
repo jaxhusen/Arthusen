@@ -25,6 +25,7 @@ html{
 .attachment-full{
     max-width: 100%;
     max-height: 600px;
+    position: relative; 
 }
 
 
@@ -273,7 +274,7 @@ div.kontakt-form{
 
 
 /* ----------- FOOTER ----------- */
-.footer{
+ .footer{
     position: absolute;
     background-color: #617C7C;
     color: white;
@@ -333,7 +334,7 @@ div.kontakt-form{
     margin-left: 15%;
     font-family: 'Montserrat', sans-serif;
 }
-
+ 
 
 .page-item-26,
 .page-item-10,
@@ -360,34 +361,38 @@ a:link {
   display: none;
 }
 
+.page-item-17 {
+  /* Kod för dropdown meny */
+}
+
+.menu ul{
+  background-color: transparent;
+  position: absolute;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  position: absolute;
+ }  
+
 .arthusen {
     color: #000000;
     font-family: 'Montserrat';
     cursor: pointer;
-    position: relative;
     display: flex;
     justify-content: center;
-     }
-
+}   
 
 .cart-menu {
     display: flex;
     align-items: center;
     justify-content: flex-end;
+    z-index: -9%;
     position: relative;
-    }
+}
     
 .cart-icons {
   padding-right: 5px;
-}
-
-.menu ul{
- background-color: transparent;
- position: absolute;
- list-style-type: none;
- display: flex;
- flex-direction: row;
- width: 50%;
 }
      
 .menu a {
@@ -395,16 +400,10 @@ a:link {
  font-family: 'Montserrat';
  cursor: pointer;
  padding-left: 50px;
- border: solid blue 3px;
- }
-
- .page-item-17:hover {
-   color: violet;
-   
  }
 
  .account-text {
-  color: black;
+  color: #000000;
   font-family: 'Montserrat';
   padding-right: 40px;
 }
@@ -547,27 +546,32 @@ a:link {
 /* ---- Nyheter --- */
 
 .post-block {
-  width: 100%;
-  background-color: #BFC7C7;
-  border: solid pink 5px;
+  width: 364px;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-}
-
-.excerpt-block {
-  font-family: 'Montserrat';
+	grid-template-columns:repeat(3);
+  border: solid tomato 3px;
 }
 
 .post-box {
   width: 364px;
+  height: 600px;
   background-color: white;
   border: solid green 6px; 
+}
+
+
+.excerpt-block {
+  font-family: 'Montserrat';
+  padding-left: 2%;
+  padding-right: 2%;
+  background-color: white;
 }
 
  .news-title {
   font-family: 'Montserrat';
   font-weight: 700;
   color: #000000;
+  padding-left: 2%;
 }
 
 .post-block p {
@@ -605,7 +609,10 @@ a:link {
   background-color: white;
   font-family: 'Libre Baskerville', serif;font-family: 'Libre Baskerville', serif;
   color: black; 
-  margin-bottom: -5%; 
+  margin-bottom: 0px; 
+  padding-top: 2%; 
+  display: flex;
+  justify-content: center; 
 }
 
 .wp-block-image {
