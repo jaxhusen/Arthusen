@@ -213,28 +213,61 @@ div.kontakt-form{
     background-color: #617C7C;
     color: white;
     width: 100%;
-    height: 30%;
+    height: 40%;
     z-index: 12;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .footer-header{
-    border: red 2px solid;
-}
-
-.footer-navigate{
-    border: 2px solid green;
-    width: 100px;
     display: flex;
+    flex-direction: row;
+}
+.footer-navigate{
     position: absolute;
+    margin-left: 4%;
 }
 
 .footer-information{
-    border: 2px solid blue;
-    width: 100px;
-    display: flex;
-    left: 150px;
-    position: relative;
+    margin-left: 15%;
 }
+.footer-logo{
+    margin-left: 50%;
+}
+
+.footer-links{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    height: 80px;
+    line-height: 1px;
+    margin-top: -40px;
+    margin-left: 5%;
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+}
+.footer-linkar{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    height: 90px;
+    line-height: 1px;
+    margin-top: -40px;
+    margin-left: 15%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* --------------------JULIA------------------- */
 

@@ -8,7 +8,6 @@ $loop = new WP_Query($args);
 
 
 <div class="butiker">
-
 <?php
 if($loop->have_posts()) : ?>
     <?php while ($loop->have_posts()) : $loop->the_post(); ?>
