@@ -74,6 +74,17 @@ function create_posttype()
             'rewrite' => array('slug' => 'butiker'),
         )
     );
+ // register hero block 
+    acf_register_block_type(array(
+
+        'name' => 'hero',
+        'title' => __('Hero'),
+        'desctiption' => __('A custom hero block'),
+        'render_template' => 'template-parts/blocks/hero.php',
+        'category' => 'formatting',
+        'icon' => 'format-image',
+        'keywords' => array('hero'),
+    ));
 }
 // Hooking up our function to theme setup
 add_action('init', 'create_posttype');
