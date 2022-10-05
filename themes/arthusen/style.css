@@ -187,6 +187,24 @@ div.kontakt-form{
 
 
 
+/* ------ post-types för butiker ------- */
+.butiker{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 4%;
+    margin: 10% 15%;
+}
+.butiker-cards{
+    background-color: white;
+    padding: 7% 5% 5% 5%;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 3px;
+}
+.butiker-title{
+    font-weight: bold;
+}
+
+
 
 /* ----------- FOOTER ----------- */
 .footer{

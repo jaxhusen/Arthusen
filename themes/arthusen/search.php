@@ -5,17 +5,20 @@ get_header();
 <?= get_search_form(); ?>
 
 <?php
-if (have_posts()) :
-    while (have_posts()) : the_post();
-?>
+if (have_posts()) : ?>
 
+<?php
+while (have_posts()) : the_post(); ?>
         <?php the_title(); ?>
         <?php the_permalink(); ?>
+        <?php the_
+        <?php the_content(); ?>
+
 <?php
-    endwhile;
+    endwhile; ?>
+    <?php
 endif;
 ?>
-</div>
 
 <?php
 get_footer();

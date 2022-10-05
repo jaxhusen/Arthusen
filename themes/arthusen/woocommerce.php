@@ -2,12 +2,19 @@
 get_header();
 ?>
 
-<?php if (have_posts()) : ?>
+<div class="woocommerce">
 
-<?php woocommerce_content(); ?>
+    <?php
+    woocommerce_content();
+    ?>
 
-<?php endif; ?>
+    <?php
+    if (is_product_category()) {
+    ?>
+        <h1>Show categories</h1>
 
-<?php
+    <?php
+    } ?>
+</div>
 
-get_footer();
+<?php get_footer(); ?>
