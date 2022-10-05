@@ -1,16 +1,14 @@
+hej single.php hej
 <?php
 get_header(); ?>
 
-<div class="page-header-content">
-    <h1 class="title"> <?php the_title(); ?> </h1>
-    <h2> <?php the_date(); ?> </h2>
 
-</div>
+<?php if (is_single()) : ?>
+ <div>
+<?php get_template_part('template-parts/single-block'); ?>
+ </div>
+<?php endif; ?>
 
-<div class="page-content">
-    <?php the_content(); ?>
-</div>
 
 <?php
-
 get_footer();

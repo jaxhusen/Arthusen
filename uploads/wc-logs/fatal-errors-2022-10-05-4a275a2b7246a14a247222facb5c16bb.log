@@ -88,3 +88,411 @@ Stack trace:
 #3 {main}
   thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/page.php on line 11
 
+2022-10-05T16:30:13+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 17
+
+2022-10-05T16:31:33+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:14
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 14
+
+2022-10-05T16:32:27+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:14
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 14
+
+2022-10-05T16:32:56+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:6
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 6
+
+2022-10-05T16:33:37+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:5
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 5
+
+2022-10-05T16:33:41+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:5
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 5
+
+2022-10-05T16:33:51+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:5
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 5
+
+2022-10-05T16:34:16+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:5
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 5
+
+2022-10-05T16:34:20+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:5
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 5
+
+2022-10-05T16:34:22+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:5
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 5
+
+2022-10-05T16:34:39+00:00 CRITICAL Uncaught Error: Call to undefined function is_posts_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:5
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 5
+
+2022-10-05T16:34:42+00:00 CRITICAL Uncaught Error: Call to undefined function is_posts_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:5
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 5
+
+2022-10-05T16:36:58+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:6
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 6
+
+2022-10-05T16:37:03+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:6
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 6
+
+2022-10-05T16:37:17+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:6
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 6
+
+2022-10-05T16:37:36+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:6
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 6
+
+2022-10-05T16:37:38+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:6
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 6
+
+2022-10-05T16:37:40+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:6
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 6
+
+2022-10-05T16:37:50+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:6
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 6
+
+2022-10-05T16:38:59+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:14
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 14
+
+2022-10-05T16:39:41+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:14
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 14
+
+2022-10-05T16:39:45+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:14
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 14
+
+2022-10-05T16:46:58+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 20
+
+2022-10-05T16:48:50+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 22
+
+2022-10-05T16:49:14+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 18
+
+2022-10-05T16:51:00+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:17
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 17
+
+2022-10-05T16:51:10+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:17
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 17
+
+2022-10-05T16:51:12+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:17
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 17
+
+2022-10-05T16:51:15+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:17
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 17
+
+2022-10-05T16:51:18+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:17
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 17
+
+2022-10-05T16:51:21+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:17
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 17
+
+2022-10-05T16:51:30+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:17
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 17
+
+2022-10-05T16:51:34+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:17
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 17
+
+2022-10-05T16:51:38+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:17
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 17
+
+2022-10-05T16:51:41+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:17
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 17
+
+2022-10-05T16:51:43+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:17
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 17
+
+2022-10-05T16:52:01+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:16
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 16
+
+2022-10-05T16:58:47+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 7
+
+2022-10-05T16:59:22+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 7
+
+2022-10-05T16:59:30+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 7
+
+2022-10-05T16:59:32+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 7
+
+2022-10-05T16:59:34+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 7
+
+2022-10-05T16:59:37+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 7
+
+2022-10-05T16:59:39+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 7
+
+2022-10-05T16:59:42+00:00 CRITICAL Uncaught Error: Call to undefined function is_post_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 7
+
+2022-10-05T16:59:53+00:00 CRITICAL Uncaught Error: Call to undefined function is_posts_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 7
+
+2022-10-05T16:59:57+00:00 CRITICAL Uncaught Error: Call to undefined function is_posts_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 7
+
+2022-10-05T17:00:06+00:00 CRITICAL Uncaught Error: Call to undefined function is_posts_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 7
+
+2022-10-05T17:00:12+00:00 CRITICAL Uncaught Error: Call to undefined function is_posts_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 7
+
+2022-10-05T17:00:16+00:00 CRITICAL Uncaught Error: Call to undefined function is_posts_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 7
+
+2022-10-05T17:00:18+00:00 CRITICAL Uncaught Error: Call to undefined function is_posts_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 7
+
+2022-10-05T17:00:21+00:00 CRITICAL Uncaught Error: Call to undefined function is_posts_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 7
+
+2022-10-05T17:00:24+00:00 CRITICAL Uncaught Error: Call to undefined function is_posts_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 7
+
+2022-10-05T17:00:26+00:00 CRITICAL Uncaught Error: Call to undefined function is_posts_page() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php:7
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 7
+

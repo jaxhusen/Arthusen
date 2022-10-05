@@ -1,5 +1,3 @@
-<!-- Kod för att hämta alla posts--> 
-
 <div class="post-block">
 <div class="post-box">
 
