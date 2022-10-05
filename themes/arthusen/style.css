@@ -218,8 +218,9 @@ div.kontakt-form{
     justify-content: center;
     padding-top: 5%;
 }
-.search-form{
+#searchform{
     font-family: 'Montserrat', sans-serif;
+    padding-top: 2%;
 }
 .search-vad{
     display: flex;
@@ -232,7 +233,9 @@ div.kontakt-form{
 }
 #s{
     width: 700px;
-    height: 80px;
+    height: 50px;
+    background-color: rgb(236, 236, 236);
+    border: none;
 }
 #searchsubmit{
     display: flex;
@@ -247,7 +250,23 @@ div.kontakt-form{
     color: white;
     background-color: #617C7C;
 }
+#searchform{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
 
+.resultat-container,
+.resultat-title{
+    margin-top: -2%;
+    padding: 2% 20%;
+    font-family: 'Montserrat', sans-serif;
+    background-color: white;
+}
+.view-collection{
+    color: #617C7C;
+}
 
 
 

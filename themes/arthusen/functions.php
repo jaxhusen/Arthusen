@@ -41,10 +41,13 @@ function my_acf_init_block_types()
     }
 }
 
-
 if (function_exists('acf_add_options_page')) {
     acf_add_options_page();
 }
+
+
+
+
 
 
 // lägger till produkt i woocommerce.php
@@ -75,6 +78,10 @@ function create_posttype()
         )
     );
     
+
+
+
+
  // register hero block 
     acf_register_block_type(array(
 
