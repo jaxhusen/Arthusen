@@ -244,6 +244,10 @@ a:link {
 
 /* ---- meny styling ---- */
 
+.page-item-30 {
+  display: none;
+}
+
 .menu-wrapper {
   border: solid 2px red;
 }
@@ -403,4 +407,68 @@ a:link {
 .omkat {
   background-color: aqua;
 }
+
+
+
+/* ---- Cart ---- */ 
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button,
+.woocommerce a.button.alt:hover {
+    background-color: #617C7C;
+    color: white;
+    border-radius: 0;
+    text-transform: uppercase;
+    font-family: 'Montserrat';
+}
+
+
+/* ---- Nyheter --- */
+
+.post-block {
+  background-color:  #BFC7C7;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-left: 2%;
+  margin-right: 2%;
+  width: auto; 
+}
+
+.excerpt-block {
+  font-family: 'Montserrat';
+}
+
+.post-box {
+  width: 364px;
+  background-color: white;
+}
+
+ .news-title {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  color: #000000;
+}
+
+.post-block p {
+  display: flex;
+  justify-content: center;
+  margin-left: 2%;
+}
+
+.attachment-medium {
+  width: 364px;
+  height: 258px;
+}
+
+.read-title {
+  font-family: 'Montserrat';
+  color: black;
+  margin-bottom: 2%;
+}
+
+/* ---- Enskild nyhet ---- */
+
+
+
+ 
 
