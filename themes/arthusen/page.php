@@ -11,7 +11,7 @@
 </div>
 
 <!-- Ifall de är första sidan så visar den nyheterna -->
-<?php if (is_front_page()) : ?>
+<?php if (is_page('Search')) : ?>
 <div>
 <?php get_template_part('template-parts/search'); ?>
 </div>
