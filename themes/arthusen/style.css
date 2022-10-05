@@ -257,8 +257,11 @@ div.kontakt-form{
 }
 
 
-
-
+.page-item-26,
+.page-item-10,
+.page-item-36{
+    display: none;
+}
 
 
 

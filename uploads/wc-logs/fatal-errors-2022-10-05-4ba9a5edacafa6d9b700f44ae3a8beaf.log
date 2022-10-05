@@ -26,3 +26,9 @@
 
 2022-10-05T09:39:08+00:00 CRITICAL syntax error, unexpected '{', expecting '(' in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\template-parts\blocks\butiker.php on line 2
 
+2022-10-05T15:00:07+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\page.php on line 19
+
+2022-10-05T15:00:41+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\page.php on line 27
+
+2022-10-05T15:01:31+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\page.php on line 29
+
