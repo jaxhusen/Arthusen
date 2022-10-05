@@ -207,6 +207,14 @@ div.kontakt-form{
 
 
 
+/* ------- search sidan ------ */
+.search-container{
+    height: 900px;
+    background-color: white;
+}
+
+
+
 /* ----------- FOOTER ----------- */
 .footer{
     position: absolute;

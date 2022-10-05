@@ -2,22 +2,25 @@
 get_header();
 ?>
 
-<?= get_search_form(); ?>
+<div class="search-form">
+    <div class="search-vad"> Vad söker du efter? </div>
+    <div class="search-field"><?= get_search_form(); ?></div>
+</div>
 
-<?php
-if (have_posts()) : ?>
+<div class="search-container">
 
-<?php
-while (have_posts()) : the_post(); ?>
-        <?php the_title(); ?>
-        <?php the_permalink(); ?>
-        <?php the_content(); ?>
 
-<?php
-    endwhile; ?>
     <?php
-endif;
-?>
+    if (have_posts()) : ?>
+
+        <?php
+        while (have_posts()) : the_post(); ?>
+        <?php
+        endwhile; ?>
+    <?php
+    endif;
+    ?>
+</div>
 
 <?php
 get_footer();
