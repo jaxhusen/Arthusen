@@ -2,7 +2,6 @@
 
 
 <div class="content">
-
     <img src="<?php the_post_thumbnail_url("post_image") ?>" alt="">
 
 

@@ -1,2 +1,34 @@
 2022-10-05T10:55:47+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/index.php on line 19
 
+2022-10-05T13:50:29+00:00 CRITICAL Uncaught Error: Call to undefined function network_site_rul() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/single.php:5
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/single.php on line 5
+
+2022-10-05T13:51:16+00:00 CRITICAL Uncaught Error: Call to undefined function network_site_rul() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/single.php:5
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/single.php on line 5
+
+2022-10-05T13:51:25+00:00 CRITICAL Uncaught Error: Call to undefined function network_site_rul() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/single.php:5
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/single.php on line 5
+
+2022-10-05T13:51:27+00:00 CRITICAL Uncaught Error: Call to undefined function network_site_rul() in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/single.php:5
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupparbete/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupparbete/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/grupparbete/wordpress/wp-content/themes/arthusen/single.php on line 5
+
