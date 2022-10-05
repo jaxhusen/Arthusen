@@ -248,6 +248,14 @@ a:link {
   display: none;
 }
 
+.page-item-20 {
+  display: none;
+}
+
+.page-item-18 {
+  display: none;
+}
+
 .menu-wrapper {
   border: solid 2px red;
 }
@@ -258,7 +266,8 @@ a:link {
     cursor: pointer;
     display: flex;
     justify-content: center;
-    border: solid 2px pink;
+    border: solid 2px rgb(9, 38, 10);
+    z-index: -9%;
      }
 
 
@@ -276,7 +285,6 @@ a:link {
   }
 
 .cart-menu {
-	width: 100%;
 	display: flex;
 	flex-direction: row;
 	align-items: center;
@@ -284,6 +292,16 @@ a:link {
   border: solid 1px blueviolet;
   margin-top: -9%;
   display: absolute;
+}
+
+.account-text {
+  color: black;
+  font-family: 'Montserrat';
+  padding-right: 40px;
+}
+
+.cart-icons {
+  padding-right: 5px;
 }
 
   /* ---- styling för kategorisidor ---- */
@@ -424,12 +442,11 @@ a:link {
 /* ---- Nyheter --- */
 
 .post-block {
-  background-color:  #BFC7C7;
+  background-color: #BFC7C7;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   margin-left: 2%;
   margin-right: 2%;
-  width: auto; 
 }
 
 .excerpt-block {

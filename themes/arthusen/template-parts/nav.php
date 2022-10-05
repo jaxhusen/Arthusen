@@ -16,7 +16,7 @@
     </div>
 
     <div class="cart-menu">
-        <a href="http://localhost:8888/wordpress/my-account/"><?php
+        <a href="http://localhost:8888/wordpress/my-account/" class="account-text"><?php
              if ( is_user_logged_in() ) {
 	             echo 'Mitt konto';
                     }               
