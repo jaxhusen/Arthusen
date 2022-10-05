@@ -1,0 +1,28 @@
+2022-10-05T09:16:21+00:00 CRITICAL Cannot redeclare my_acf_init_block_types() (previously declared in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php:16) in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php on line 69
+
+2022-10-05T09:16:24+00:00 CRITICAL Cannot redeclare my_acf_init_block_types() (previously declared in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php:16) in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php on line 69
+
+2022-10-05T09:16:27+00:00 CRITICAL Cannot redeclare my_acf_init_block_types() (previously declared in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php:16) in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php on line 69
+
+2022-10-05T09:16:27+00:00 CRITICAL Cannot redeclare my_acf_init_block_types() (previously declared in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php:16) in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php on line 69
+
+2022-10-05T09:16:30+00:00 CRITICAL Cannot redeclare my_acf_init_block_types() (previously declared in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php:16) in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php on line 69
+
+2022-10-05T09:16:31+00:00 CRITICAL Cannot redeclare my_acf_init_block_types() (previously declared in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php:16) in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php on line 69
+
+2022-10-05T09:16:54+00:00 CRITICAL Cannot redeclare my_acf_init_block_types() (previously declared in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php:16) in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php on line 69
+
+2022-10-05T09:16:56+00:00 CRITICAL Cannot redeclare my_acf_init_block_types() (previously declared in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php:16) in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php on line 69
+
+2022-10-05T09:17:43+00:00 CRITICAL Cannot redeclare my_acf_init_block_types() (previously declared in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php:16) in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php on line 69
+
+2022-10-05T09:17:45+00:00 CRITICAL Cannot redeclare my_acf_init_block_types() (previously declared in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php:16) in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php on line 69
+
+2022-10-05T09:18:00+00:00 CRITICAL Cannot redeclare my_acf_init_block_types() (previously declared in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php:16) in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php on line 69
+
+2022-10-05T09:18:02+00:00 CRITICAL Cannot redeclare my_acf_init_block_types() (previously declared in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php:16) in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\functions.php on line 69
+
+2022-10-05T09:38:58+00:00 CRITICAL syntax error, unexpected '{', expecting '(' in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\template-parts\blocks\butiker.php on line 2
+
+2022-10-05T09:39:08+00:00 CRITICAL syntax error, unexpected '{', expecting '(' in C:\MAMP\htdocs\arthusenWOO\wp-content\themes\arthusen\template-parts\blocks\butiker.php on line 2
+
