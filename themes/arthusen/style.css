@@ -234,6 +234,10 @@ div.kontakt-form{
     margin-left: 50%;
 }
 
+.footer-logo a {
+  color: white; 
+}
+
 .footer-links {
     position: absolute;
     display: flex;
@@ -245,6 +249,15 @@ div.kontakt-form{
     color:white;
     font-family: 'Montserrat', sans-serif;
 }
+
+.footer-links a {
+  color: white; 
+}
+
+.footer-linkar a {
+  color: white; 
+}
+
 .footer-linkar{
     position: absolute;
     display: flex;

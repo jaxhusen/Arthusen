@@ -7,5 +7,13 @@
     <?php endwhile; else: endif; ?>
 </div>
 
+<!-- Ifall de är första sidan så visar den nyheterna -->
+<?php if (is_front_page()) : ?>
+<div>
+<?php get_template_part('template-parts/search'); ?>
+</div>
+<?php endif; ?>
 
-<?php get_footer(); ?>
+<?php
+get_footer();
+
