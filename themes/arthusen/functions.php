@@ -74,6 +74,7 @@ function create_posttype()
             'rewrite' => array('slug' => 'butiker'),
         )
     );
+    
  // register hero block 
     acf_register_block_type(array(
 
