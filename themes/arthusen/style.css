@@ -104,7 +104,9 @@ div.wp-block-media-text__content{
 .schack-ett,
 .schack-tva{
     background-color: white;
-    margin-bottom: -0.1%;
+    margin-bottom: -1%;
+    padding: -2%;
+    max-width: 100%;
 }
 
 .schack-etttext,
@@ -112,6 +114,12 @@ div.wp-block-media-text__content{
     max-width: 28%;
     padding: 10% 10%;
 }
+
+.wp-block-image{
+    height: 560px;
+    max-width: 1300;
+}
+
 
 
 
