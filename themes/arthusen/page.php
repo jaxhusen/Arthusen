@@ -11,7 +11,7 @@ hej page.php
 <!-- Ifall man klickat på search sidan så visar den nyheterna -->
 <?php if (is_page('259')) : ?>
 <div>
-<?php get_template_part('template-parts/search'); ?>
+<?php get_template_part('template-parts/search-template'); ?>
 </div>
 <?php endif; ?>
 
