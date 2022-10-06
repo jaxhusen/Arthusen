@@ -3,7 +3,6 @@ hej wocoommerce.php
 get_header();
 ?>
 
-
     <?php
     if (is_product_category()) {
     ?>
