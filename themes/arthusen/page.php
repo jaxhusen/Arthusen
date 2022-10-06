@@ -1,4 +1,4 @@
-hej page.php 
+
 <?php get_header(); ?>
 
 <div class="content">

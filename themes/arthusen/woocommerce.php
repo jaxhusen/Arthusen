@@ -1,4 +1,4 @@
-hej wocoommerce.php 
+
 <?php
 get_header();
 ?>

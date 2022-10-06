@@ -1,4 +1,4 @@
-hej index.php hej
+
 <?php
 get_header();
 ?>
