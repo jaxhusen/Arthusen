@@ -625,5 +625,11 @@ a:link {
 /* ---- Kategorisidor ---- */
 
 .endiv {
-  background-color: white;
+  background-color: blue;
+}
+
+.page-title {
+  font-family: 'Libre Baskerville', serif;font-family: 'Libre Baskerville', serif;
+  display: flex;
+  justify-content: center;
 }
