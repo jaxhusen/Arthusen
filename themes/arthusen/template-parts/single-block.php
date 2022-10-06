@@ -1,5 +1,5 @@
 <div>
-    <h2 class="post-date"> <?php the_date(); ?> </h2>
+    <p class="post-date"> <?php the_date(); ?> </p>
     <h1 class="title"> <?php the_title(); ?> </h1> 
 </div>
 

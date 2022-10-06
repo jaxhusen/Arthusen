@@ -1,6 +1,6 @@
 
 
-
+<img src="" alt="">
 <div class="post-block">
 <span class="post-box">
  <?php the_post_thumbnail('medium'); ?>

@@ -1,7 +1,7 @@
+hej wocoommerce.php
 <?php
 get_header();
 ?>
-
 <div class="woocommerce">
 
     <?php
@@ -18,3 +18,4 @@ get_header();
 </div>
 
 <?php get_footer(); ?>
+
