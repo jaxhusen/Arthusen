@@ -361,13 +361,6 @@ div.kontakt-form{
 }
  
 
-.page-item-26,
-.page-item-10,
-.page-item-36,
-.page-item-259,
-.page-item-38{
-    display: none;
-}
 
 
 
@@ -379,14 +372,6 @@ a:link {
 
 /* ---- meny styling ---- */
 
-.page-item-30,
-.page-item-20,
-.page-item-18,
-.page-item-3,
-.page-item-19,
-.page-item-21 {
-  display: none;
-}
 
 .page-item-17 {
   /* Kod för dropdown meny */
@@ -410,6 +395,7 @@ a:link {
     display: flex;
     justify-content: center;
     z-index: 9;
+    background-color: transparent;
 }   
 
 .cart-menu {
