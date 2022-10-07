@@ -4,9 +4,9 @@ get_header();
 ?>
 
 <?php
-$my_id = 30;
-$post_id_30 = get_post($my_id);
-$content = $post_id_30->post_content;
+$my_id = 278;
+$post_id_278 = get_post($my_id);
+$content = $post_id_278->post_content;
 $content = apply_filters('the_content', $content);
 ?>
 
