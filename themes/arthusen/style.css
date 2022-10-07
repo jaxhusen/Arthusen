@@ -362,8 +362,6 @@ div.kontakt-form{
  
 
 
-
-
 /* --------------------JULIA------------------- */
 
 a:link {
@@ -372,6 +370,16 @@ a:link {
 
 /* ---- meny styling ---- */
 
+.page-item-36,
+.page-item-37,
+.page-item-38,
+.page-item-278,
+.page-item-3,
+.page-item-259,
+.page-item-6,
+.page-item-26 {
+    display: none;
+}
 
 .page-item-17 {
   /* Kod för dropdown meny */
